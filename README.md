@@ -15,7 +15,7 @@ Technologies & Tools Used --
 3. CSS
 4. JavaScript
 5. VS Code
-6. SheCodes Weather API
+6. Weather API
 
 Installation and Usage --
 
