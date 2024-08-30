@@ -1,0 +1,45 @@
+ input{
+  background-color:#475569;
+  border-radius:5%;
+  width:80%;
+  height:4rem;
+}
+input[placeholder]{
+  font-size:25px;
+}
+#screen{
+  border: 2px solid rgb(247, 242, 242);
+  border-radius: 25px;
+}
+#mode{
+  color: aqua;
+}  
+ body {
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.dark {
+  background-color: #292929;
+  color: #ffffff;
+}
+
+button {
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.bg-gray-900 {
+  background-color: #1a202c;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.text-black {
+  color: #000000;
+} 
